@@ -9,7 +9,7 @@ int main()
 
   int n;
    
-  printf("Enter the marks: );
+  printf("Enter the marks: ");
   
   scanf("%d",&n);
   
